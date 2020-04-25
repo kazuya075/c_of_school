@@ -1,0 +1,75 @@
+第11回福岡ゲームコンテスト
+ぐんまプログラミングアワード
+WizTreeノイズレスサーチVirusTotal ビットコイントレード
+https://github.com/tjumyk/touhou-java
+http://gomisai.blog75.fc2.com/blog-entry-454.html
+http://aidiary.hatenablog.com/entry/20040918/1251373370
+https://garretlab.web.fc2.com/arduino/inside/arduino/wiring_analog.c/analogRead.html
+java 東方java 2d
+BohYoh.com － 柴田望洋後援会オフィシャルホームページ by 言語科学研究所
+PowerPoint プレゼンテーション
+Microsoft PowerPoint - 17CE1_lect03.ppt [互換モード]
+ナイキスト線図 -システムP(s)=1/(s^2+2*s+4)
+glasswire
+https://www.hackforplay.xyz
+cad管理者
+ライフハック
+雛ピた
+腰ポーチ
+黄昏　左
+サポーター  前期後期の教科書
+記憶　化学
+勉強法
+k code freiman背骨 矯正 体操
+薬草教会　渡瀬裕也　ぶろんふぇんぶrンなー
+http://sevendw.web.fc2.com/index.htm
+http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FactorAnalysis.html#sklearn.decomposition.FactorAnalysis
+http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FactorAnalysis.html
+https://digitaltravesia.jp/books/index.html#CONTENT2
+統計情報
+http://www.stat.go.jp/data/guide/1.htm
+
+
+https://www.pixiv.net/member.php?id=422596
+https://www.pixiv.net/member.php?id=2063338
+学校基本調査
+http://www.jasso.go.jp/shogakukin/gakkobetujouhou/index.html
+学校毎の貸与及び返還に関する情報
+
+int main()
+{
+int x = 0x636261;
+char *p;
+p=(char*)&x;
+printf("%s\n",p);
+return 0;
+}
+
+
+f12
+CTRL+SHIFT+ESCでタスクマネージャー起動
+
+６，７、８、11,13,14話視聴
+
+
+就職　3年夏から
+es 　筆記
+大手にエントリーして練習
+
+業界　企業選びのコツ
+企業の健全性　事業の成長性
+労働条件
+リスクの把握とリスクが発生した時の身の振り方
+参入障壁　競争の激しくない企業
+業界ごとに今後稼げる金額が決まる
+稼げる業界の大手が良い　数年分　ランキング調べる
+個別に企業ランキングも調べる　非上場も
+調べた後明らかに不可能なところは除く　採用大学などから
+
+賃金構造基本統計調査
+
+都心の稼げる業界の大企業の正社員が正解
+
+ルックス　スーツ　革靴　顔　注意　清潔
+spi
+Hatara-Clicker-win64
