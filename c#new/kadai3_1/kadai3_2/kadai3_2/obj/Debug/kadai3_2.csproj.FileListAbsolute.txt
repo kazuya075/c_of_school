@@ -1,0 +1,7 @@
+C:\Users\fmv\source\repos\kadai3_2\kadai3_2\bin\Debug\kadai3_2.exe.config
+C:\Users\fmv\source\repos\kadai3_2\kadai3_2\bin\Debug\kadai3_2.exe
+C:\Users\fmv\source\repos\kadai3_2\kadai3_2\bin\Debug\kadai3_2.pdb
+C:\Users\fmv\source\repos\kadai3_2\kadai3_2\obj\Debug\kadai3_2.csprojAssemblyReference.cache
+C:\Users\fmv\source\repos\kadai3_2\kadai3_2\obj\Debug\kadai3_2.csproj.CoreCompileInputs.cache
+C:\Users\fmv\source\repos\kadai3_2\kadai3_2\obj\Debug\kadai3_2.exe
+C:\Users\fmv\source\repos\kadai3_2\kadai3_2\obj\Debug\kadai3_2.pdb

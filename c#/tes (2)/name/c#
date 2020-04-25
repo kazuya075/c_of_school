@@ -1,0 +1,80 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using System.Collections;
+namespace ConsoleApp2
+{
+    class Program 
+    {
+        static String[] nums;
+
+        static void Main()
+        {
+            string line=""; 
+            List<string> temp = new List<string>();            
+            StreamReader sr = new StreamReader(@"C:\\Users\\fmv\\Desktop\\pleiades\\workspace\\pro\\src\\test2\\name\\name.txt", Encoding.GetEncoding("Shift_JIS"));
+            
+             //ファイルから読み込んだ行を一旦リストに入れておく
+            while(( sr.Peek()>-1)){                   line = sr.ReadLine();                temp.Add(line);
+             }
+           
+            nums = temp.ToArray();//List の要素を新しい配列にコピー
+            Array.Sort(nums);//sort
+            for (int i = 0;i < temp.Count();++i){//順に表示
+                Console.WriteLine(nums[i] + "\r\n");
+            }
+            
+        Console.ReadKey();
+        
+	    }
+ 
+
+        }
+    }
+
+/*  static string t;
+        static void Main()
+        {
+            StreamReader sr = new StreamReader(@"C:\\Users\\fmv\\Desktop\\pleiades\\workspace\\pro\\src\\test2\\name\\test.txt", Encoding.GetEncoding("Shift_JIS"));
+           t = sr.ReadLine();
+        //   Console.WriteLine(t); 
+       
+        string[] arr =  t.Split(' ');//空白で区切ってstring型配列に
+        int[] intArray = new int[arr.Length];//int型配列の用意
+
+        for (int i = 0; i < intArray.Length; i++){
+         intArray[i] = int.Parse(arr[i]);}//int型に変換して配列に
+
+        Console.WriteLine("正順 [{0}]", string.Join(", ", intArray));
+        Array.Reverse(intArray);//sort
+        Console.WriteLine("逆順 [{0}]", string.Join(", ", intArray));
+        Array.Sort(intArray);//sort
+        Console.WriteLine("昇順 [{0}]", string.Join(", ", intArray));// 配列内のデータをすべてカンマ区切りで連結する
+        Array.Reverse(intArray);//sort
+        Console.WriteLine("降順 [{0}]", string.Join(", ", intArray));
+
+        sr.Close();
+
+        Console.ReadKey();
+        }
+        */
+
+
+             //配列に格納             /*
+              *  //配列を読み込んだ行数で用意             foreach (String[] nums in temp){
+                
+                }
+             for(String[] nums in temp){
+                     nums[i] = temp[i];
+
+
+            Array.Sort(nums);//sort
+              for(int i = 0 ; i<= nums.Length -1 ; i++){//一行ごとに段落分け
+	        	if(i<=nums.Length-1){
+	        		Console.WriteLine("{0}", string.Join(", ", nums[i]));// 配列内のデータをすべてカンマ区切りで連結する                }
+	        }               sr.Close();
+
+             }*/

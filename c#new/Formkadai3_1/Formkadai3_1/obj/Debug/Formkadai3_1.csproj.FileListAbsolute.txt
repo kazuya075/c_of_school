@@ -1,0 +1,10 @@
+C:\Users\fmv\source\repos\Formkadai3_1\Formkadai3_1\bin\Debug\Formkadai3_1.exe.config
+C:\Users\fmv\source\repos\Formkadai3_1\Formkadai3_1\bin\Debug\Formkadai3_1.exe
+C:\Users\fmv\source\repos\Formkadai3_1\Formkadai3_1\bin\Debug\Formkadai3_1.pdb
+C:\Users\fmv\source\repos\Formkadai3_1\Formkadai3_1\obj\Debug\Formkadai3_1.csprojAssemblyReference.cache
+C:\Users\fmv\source\repos\Formkadai3_1\Formkadai3_1\obj\Debug\Formkadai3_1.Form1.resources
+C:\Users\fmv\source\repos\Formkadai3_1\Formkadai3_1\obj\Debug\Formkadai3_1.Properties.Resources.resources
+C:\Users\fmv\source\repos\Formkadai3_1\Formkadai3_1\obj\Debug\Formkadai3_1.csproj.GenerateResource.cache
+C:\Users\fmv\source\repos\Formkadai3_1\Formkadai3_1\obj\Debug\Formkadai3_1.csproj.CoreCompileInputs.cache
+C:\Users\fmv\source\repos\Formkadai3_1\Formkadai3_1\obj\Debug\Formkadai3_1.exe
+C:\Users\fmv\source\repos\Formkadai3_1\Formkadai3_1\obj\Debug\Formkadai3_1.pdb

@@ -1,0 +1,10 @@
+C:\Users\fmv\source\repos\FormApp5\FormApp5\bin\Debug\FormApp5.exe.config
+C:\Users\fmv\source\repos\FormApp5\FormApp5\bin\Debug\FormApp5.exe
+C:\Users\fmv\source\repos\FormApp5\FormApp5\bin\Debug\FormApp5.pdb
+C:\Users\fmv\source\repos\FormApp5\FormApp5\obj\Debug\FormApp5.csprojAssemblyReference.cache
+C:\Users\fmv\source\repos\FormApp5\FormApp5\obj\Debug\FormApp5.Form1.resources
+C:\Users\fmv\source\repos\FormApp5\FormApp5\obj\Debug\FormApp5.Properties.Resources.resources
+C:\Users\fmv\source\repos\FormApp5\FormApp5\obj\Debug\FormApp5.csproj.GenerateResource.cache
+C:\Users\fmv\source\repos\FormApp5\FormApp5\obj\Debug\FormApp5.csproj.CoreCompileInputs.cache
+C:\Users\fmv\source\repos\FormApp5\FormApp5\obj\Debug\FormApp5.exe
+C:\Users\fmv\source\repos\FormApp5\FormApp5\obj\Debug\FormApp5.pdb

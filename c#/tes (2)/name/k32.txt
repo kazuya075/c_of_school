@@ -1,0 +1,58 @@
+/*
+           int age;
+           string name_c;
+           string name_k;*/
+
+//List<int> vlist = new List<int>();
+
+
+/*
+// 入力を促すメッセージの表示
+Console.Write("あなたの学籍番号は？　　: ");
+age = int.Parse(Console.ReadLine());
+
+// 入力を促すメッセージの表示 
+Console.Write("あなたの名前(漢字)は？　: ");
+name_c = Console.ReadLine();
+
+// 入力を促すメッセージの表示 
+Console.Write("あなたの名前(かな)は？ : ");
+name_k = Console.ReadLine();
+*/
+/*
+myTable.Add(age, name_c+name_k);
+myTable.Add(1, "Morioka");
+myTable.Add(2, "Sendai");
+
+int str = age;
+
+Console.WriteLine("[{0}:{1}]", str, myTable[age]);
+*/ /*
+            //For文で繰り返す
+            for (int i = 0; i < num; i++)
+            {
+                //キーがkeys[i]である要素の値をvals[i]にする
+                myTable[s_num[i]] = name_c[i];
+                //次のようにすると、キーが既に存在している時は例外がスローされる
+                //myTable.Add(keys[i], vals[i]);
+            }
+            */
+
+
+
+
+/*
+int n = 0;
+for (int i = 0; i < num; i++)//"知りたい学籍番号検索
+{
+    if (number[0] == s_num[i])//Dictionaryに一致するものがあったら
+    {
+
+        n++;//
+    }
+}
+
+if (n == 0)//上で一致するものがあったらn=1
+{
+    Console.WriteLine("存在しない値です");//一回表示
+}*/
