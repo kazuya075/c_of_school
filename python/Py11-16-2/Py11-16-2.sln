@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Py11-16-2syuuitu", "Py11-16-2\Py11-16-2syuuitu.pyproj", "{12E77A5F-5AF2-45E0-ACE5-DE6679674B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E77A5F-5AF2-45E0-ACE5-DE6679674B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E77A5F-5AF2-45E0-ACE5-DE6679674B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {857A6100-BF71-454B-9B98-96512AFBA947}
+	EndGlobalSection
+EndGlobal
